@@ -1,11 +1,11 @@
 #include <stdio.h>
-OAOAOA/**
+/**
  * main - Entry point
  *
  * Description: prints all possible different combinations of two digits
  * Return: 0 is successful
  */
-OAOAOAint main(void)
+int main(void)
 {
 	int i;
 	int j;
