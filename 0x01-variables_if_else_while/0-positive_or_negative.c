@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - entry point
-OBOBOB *
+ *
  * Description: assigns a random number to the variable n
  * Return: 0 if successful
  */
